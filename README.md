@@ -23,6 +23,8 @@ For the Steam path used while developing this mod:
 .\install.ps1 -KspRoot "C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program"
 ```
 
+If Windows blocks local scripts, run them through `powershell -NoProfile -ExecutionPolicy Bypass -File .\build.ps1` and repeat for `install.ps1`.
+
 The final installed layout should include:
 
 ```text
