@@ -6,4 +6,3 @@ obj/
 *.log
 GameData/KSPHoverSlam/Plugins/*.pdb
 GameData/KSPHoverSlam/Plugins/*.mdb
-GameData/KSPHoverSlam/Plugins/*.dll
